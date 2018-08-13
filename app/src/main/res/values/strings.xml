@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">一键分享</string>
+    <string name="title_image">图片</string>
+    <string name="title_video">视频</string>
+    <string name="title_me">我的</string>
+    <string name="aboutus">关于我们</string>
+
+</resources>
